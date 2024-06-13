@@ -635,6 +635,42 @@ footer .copyright{
     justify-content: space-between;
 
 }
+#prodetails .single-pro-details1{
+    width: 50%;
+    padding-top: 30px;
+
+}
+#prodetails .single-pro-details1 h4{
+    padding: 40px 0 20px 0;
+}
+#prodetails .single-pro-details1 h2{
+    font-size: 26px;
+}
+#prodetails .single-pro-details1 select{
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+
+}
+#prodetails .single-pro-details1 input{
+    width: 50px;
+    height: 47px;
+    padding-left:10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+#prodetails .single-pro-details1 input:focus{
+    outline: none;
+
+}
+#prodetails .single-pro-details1 button{
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+#prodetails .single-pro-details1 span{
+    line-height: 25px;
+}
 
 /* blog page */
 #page-header.blog-header{
